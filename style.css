@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url(/Images/turtle-underwater-coral-nature-animal-4k-wallpaper-uhdpaper.com-937@0@i.jpg);
+  margin: 0;
+  z-index: -1;
+}
+canvas {
+  border: 1px solid white;
+}
